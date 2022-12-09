@@ -14,7 +14,8 @@ Als gebruiker wil ik een Smart Zone kunnen reserveren, zodat ik zeker weet dat i
 
 ## Wireflow
 <!-- Toon de wireflow -->
-![20221205_132517](https://user-images.githubusercontent.com/112859814/206126676-fa6b3ecd-98e8-4390-947e-9f4da42371fc.jpg)
+![20221209_090718](https://user-images.githubusercontent.com/112859814/206658897-8628d6c3-3d7f-4386-98c4-f31995bf0443.jpg)
+
 
 ## Licentie
 
